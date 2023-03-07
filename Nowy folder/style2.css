@@ -1,0 +1,26 @@
+header{
+    background-image: url(/flamingi.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 98vh;
+}
+h1{
+    color: #fff;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 220px;
+    text-shadow: 5px;
+}
+li{
+    text-transform: uppercase;
+    border-left: red solid;
+    border-radius: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 10px;
+    padding: 5px;
+}
+nav{
+    background-color: green;
+    display: flex;
+}
