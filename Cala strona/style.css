@@ -1,0 +1,152 @@
+* {
+	font-family: 'Delicious Handrawn', cursive;
+}
+
+header {
+	height: 200px;
+	background-image: url("galen-crout-GVVRHcmd__I-unsplash.jpg");
+	background-position: center;
+	background-size: cover;
+	/* position: relative; */
+}
+h1 {
+	font-size: 4rem;
+	/* position: absolute; */
+	/* right: 0; */
+	/* top: 0; */
+	/* transform: translate(-20%, 50%); */
+	color: rgb(227, 195, 10);
+	text-transform: uppercase;
+	text-shadow: 5px 5px rgb(59, 59, 77);
+}
+nav {
+	padding: 20px;
+	background-color: #a2b7c5;
+	/* position: sticky; */
+	/* top: 0px; */
+}
+nav ul li {
+	background-color: #fff;
+	display: inline-block;
+	padding: 10px 0;
+	border-left: 2px solid #f50303;
+	border-radius: 5px;
+	width: 80px;
+	text-align: center;
+}
+nav ul {
+	text-align: end;
+}
+a {
+	text-decoration: none;
+	color: #070707;
+}
+h2 {
+	text-transform: uppercase;
+	text-align: center;
+	padding: 50px;
+	font-size: 2rem;
+}
+p {
+	padding: 0 2rem 0 0;
+	max-width: 30rem;
+}
+
+section {
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+img {
+	height: 200px;
+}
+figure {
+	margin: 0 2rem 2rem 0;
+	float: left;
+}
+footer ul {
+	list-style: none;
+}
+h3 {
+	color: white;
+	border-bottom: 1px solid red;
+	width: 7em;
+}
+.faq {
+	text-transform: uppercase;
+}
+.top {
+	background-color: rgb(69, 66, 66);
+	display: flex;
+	justify-content: space-evenly;
+}
+li {
+	color: grey;
+}
+ul {
+	list-style: none;
+}
+a {
+	text-decoration: none;
+	color: grey;
+}
+body {
+	margin: 0px;
+}
+.bottom {
+	background-color: grey;
+	display: flex;
+	justify-content: flex-end;
+	padding: 1px;
+}
+article {
+	padding-right: 10px;
+}
+svg {
+	background-color: grey;
+	border: 5px solid grey;
+	border-radius: 15px;
+	color: white;
+}
+span {
+	text-transform: uppercase;
+	color: lightblue;
+}
+.icon {
+	display: flex;
+	justify-content: space-between;
+}
+.ikon:hover {
+	scale: 130%;
+	filter: invert();
+}
+li:hover {
+	scale: 120%;
+}
+a:hover {
+	color: white;
+}
+.icon:hover {
+	scale: 100%;
+}
+footer {
+	display: inline;
+}
+div {
+	background-color: #a2b7c5;
+	padding: 1rem;
+	margin: 1rem;
+}
+.ikon {
+	background-color: rgb(69, 66, 66);
+    margin: 0px;
+    padding: 0px;
+}
+.w{
+    font-family: Roboto;
+    font-weight: 700;
+}
+.e{
+font-family: 'Delicious Handrawn', cursive;
+font-weight: 400;
+}
