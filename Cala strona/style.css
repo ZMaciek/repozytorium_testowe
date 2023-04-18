@@ -1,5 +1,5 @@
 * {
-	font-family: 'Delicious Handrawn', cursive;
+	font-family: "Delicious Handrawn", cursive;
 }
 
 header {
@@ -124,7 +124,7 @@ li:hover {
 	scale: 120%;
 }
 a:hover {
-	color: white;
+	color: red;
 }
 .icon:hover {
 	scale: 100%;
@@ -139,14 +139,21 @@ div {
 }
 .ikon {
 	background-color: rgb(69, 66, 66);
-    margin: 0px;
-    padding: 0px;
+	margin: 0px;
+	padding: 0px;
 }
-.w{
-    font-family: Roboto;
-    font-weight: 700;
+.w {
+	font-family: Roboto;
+	font-weight: 700;
 }
-.e{
-font-family: 'Delicious Handrawn', cursive;
-font-weight: 400;
+.e {
+	font-family: "Delicious Handrawn", cursive;
+	font-weight: 400;
+}
+.formularz {
+	display: flex;
+	justify-content: center;
+}
+.formm:hover {
+	scale: 100%;
 }
